@@ -1,0 +1,3 @@
+SELECT *
+FROM table
+WHERE 1 = 1;
